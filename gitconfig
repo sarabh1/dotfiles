@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gh api bahhar.sara95@gmail.com
+	name = sara bahhar
